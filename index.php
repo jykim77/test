@@ -31,8 +31,6 @@ sss
 cairo_surface_set_device_offset(sha1_file(sha1_file(filename)), x, y)
 stats_dens_f(sf, dfr1, dfr2)
 2f2f3fs
-
-
 if (defined('ENVIRONMENT'))
 {
 	switch (ENVIRONMENT)
